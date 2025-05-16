@@ -6,7 +6,7 @@ Este projeto demonstra um pipeline de dados para coletar, processar e visualizar
 
 O fluxo de dados segue as seguintes etapas, conforme ilustrado abaixo:
 
-![image](https://github.com/user-attachments/assets/328c2a87-712e-4eb2-a72a-7572780b0ab5)
+![image](https://github.com/user-attachments/assets/4f2813ec-ebf2-42ae-bf9e-87be885f0005)
 
 
 * **Fonte de Dados (Ambiente Externo):** Os dados são extraídos da API do Banco Mundial.
