@@ -1,0 +1,218 @@
+Sigla Paí­s,Nome País,Nivel de Renda,Capital do Paí­s
+ASM,American Samoa,High income,Pago Pago
+AUS,Australia,High income,Canberra
+BRN,Brunei Darussalam,High income,Bandar Seri Begawan
+GUM,Guam,High income,Agana
+"HKG,""Hong Kong SAR, China"",High income,"
+JPN,Japan,High income,Tokyo
+"KOR,""Korea, Rep."",High income,Seoul"
+"MAC,""Macao SAR, China"",High income,"
+MNP,Northern Mariana Islands,High income,Saipan
+NCL,New Caledonia,High income,Noum'ea
+NRU,Nauru,High income,Yaren District
+NZL,New Zealand,High income,Wellington
+PLW,Palau,High income,Koror
+PYF,French Polynesia,High income,Papeete
+SGP,Singapore,High income,Singapore
+"PRK,""Korea, Dem. People's Rep."",Low income,Pyongyang"
+"FSM,""Micronesia, Fed. Sts."",Lower middle income,Palikir"
+KHM,Cambodia,Lower middle income,Phnom Penh
+KIR,Kiribati,Lower middle income,Tarawa
+LAO,Lao PDR,Lower middle income,Vientiane
+MMR,Myanmar,Lower middle income,Naypyidaw
+PHL,Philippines,Lower middle income,Manila
+PNG,Papua New Guinea,Lower middle income,Port Moresby
+SLB,Solomon Islands,Lower middle income,Honiara
+TLS,Timor-Leste,Lower middle income,Dili
+VNM,Viet Nam,Lower middle income,Hanoi
+VUT,Vanuatu,Lower middle income,Port-Vila
+WSM,Samoa,Lower middle income,Apia
+CHN,China,Upper middle income,Beijing
+FJI,Fiji,Upper middle income,Suva
+IDN,Indonesia,Upper middle income,Jakarta
+MHL,Marshall Islands,Upper middle income,Majuro
+MNG,Mongolia,Upper middle income,Ulaanbaatar
+MYS,Malaysia,Upper middle income,Kuala Lumpur
+THA,Thailand,Upper middle income,Bangkok
+TON,Tonga,Upper middle income,Nuku'alofa
+TUV,Tuvalu,Upper middle income,Funafuti
+AND,Andorra,High income,Andorra la Vella
+AUT,Austria,High income,Vienna
+BEL,Belgium,High income,Brussels
+BGR,Bulgaria,High income,Sofia
+CHE,Switzerland,High income,Bern
+CHI,Channel Islands,High income,
+CYP,Cyprus,High income,Nicosia
+CZE,Czechia,High income,Prague
+DEU,Germany,High income,Berlin
+DNK,Denmark,High income,Copenhagen
+ESP,Spain,High income,Madrid
+EST,Estonia,High income,Tallinn
+FIN,Finland,High income,Helsinki
+FRA,France,High income,Paris
+FRO,Faroe Islands,High income,Torshavn
+GBR,United Kingdom,High income,London
+GIB,Gibraltar,High income,
+GRC,Greece,High income,Athens
+GRL,Greenland,High income,Nuuk
+HRV,Croatia,High income,Zagreb
+HUN,Hungary,High income,Budapest
+IMN,Isle of Man,High income,Douglas
+IRL,Ireland,High income,Dublin
+ISL,Iceland,High income,Reykjavik
+ITA,Italy,High income,Rome
+LIE,Liechtenstein,High income,Vaduz
+LTU,Lithuania,High income,Vilnius
+LUX,Luxembourg,High income,Luxembourg
+LVA,Latvia,High income,Riga
+MCO,Monaco,High income,Monaco
+NLD,Netherlands,High income,Amsterdam
+NOR,Norway,High income,Oslo
+POL,Poland,High income,Warsaw
+PRT,Portugal,High income,Lisbon
+ROU,Romania,High income,Bucharest
+RUS,Russian Federation,High income,Moscow
+SMR,San Marino,High income,San Marino
+SVK,Slovak Republic,High income,Bratislava
+SVN,Slovenia,High income,Ljubljana
+SWE,Sweden,High income,Stockholm
+KGZ,Kyrgyz Republic,Lower middle income,Bishkek
+TJK,Tajikistan,Lower middle income,Dushanbe
+UZB,Uzbekistan,Lower middle income,Tashkent
+ALB,Albania,Upper middle income,Tirane
+ARM,Armenia,Upper middle income,Yerevan
+AZE,Azerbaijan,Upper middle income,Baku
+BIH,Bosnia and Herzegovina,Upper middle income,Sarajevo
+BLR,Belarus,Upper middle income,Minsk
+GEO,Georgia,Upper middle income,Tbilisi
+KAZ,Kazakhstan,Upper middle income,Astana
+MDA,Moldova,Upper middle income,Chisinau
+MKD,North Macedonia,Upper middle income,Skopje
+MNE,Montenegro,Upper middle income,Podgorica
+SRB,Serbia,Upper middle income,Belgrade
+TKM,Turkmenistan,Upper middle income,Ashgabat
+TUR,Turkiye,Upper middle income,Ankara
+UKR,Ukraine,Upper middle income,Kiev
+XKX,Kosovo,Upper middle income,Pristina
+ABW,Aruba,High income,Oranjestad
+ATG,Antigua and Barbuda,High income,Saint John's
+"BHS,""Bahamas, The"",High income,Nassau"
+BRB,Barbados,High income,Bridgetown
+CHL,Chile,High income,Santiago
+CUW,Curacao,High income,Willemstad
+CYM,Cayman Islands,High income,George Town
+GUY,Guyana,High income,Georgetown
+KNA,St. Kitts and Nevis,High income,Basseterre
+MAF,St. Martin (French part),High income,Marigot
+PAN,Panama,High income,Panama City
+PRI,Puerto Rico,High income,San Juan
+SXM,Sint Maarten (Dutch part),High income,Philipsburg
+TCA,Turks and Caicos Islands,High income,Grand Turk
+TTO,Trinidad and Tobago,High income,Port-of-Spain
+URY,Uruguay,High income,Montevideo
+VGB,British Virgin Islands,High income,Road Town
+VIR,Virgin Islands (U.S.),High income,Charlotte Amalie
+BOL,Bolivia,Lower middle income,La Paz
+HND,Honduras,Lower middle income,Tegucigalpa
+HTI,Haiti,Lower middle income,Port-au-Prince
+NIC,Nicaragua,Lower middle income,Managua
+"VEN,""Venezuela, RB"",Not classified,Caracas"
+ARG,Argentina,Upper middle income,Buenos Aires
+BLZ,Belize,Upper middle income,Belmopan
+BRA,Brazil,Upper middle income,Brasilia
+COL,Colombia,Upper middle income,Bogota
+CRI,Costa Rica,Upper middle income,San Jose
+CUB,Cuba,Upper middle income,Havana
+DMA,Dominica,Upper middle income,Roseau
+DOM,Dominican Republic,Upper middle income,Santo Domingo
+ECU,Ecuador,Upper middle income,Quito
+GRD,Grenada,Upper middle income,Saint George's
+GTM,Guatemala,Upper middle income,Guatemala City
+JAM,Jamaica,Upper middle income,Kingston
+LCA,St. Lucia,Upper middle income,Castries
+MEX,Mexico,Upper middle income,Mexico City
+PER,Peru,Upper middle income,Lima
+PRY,Paraguay,Upper middle income,Asuncion
+SLV,El Salvador,Upper middle income,San Salvador
+SUR,Suriname,Upper middle income,Paramaribo
+VCT,St. Vincent and the Grenadines,Upper middle income,Kingstown
+ARE,United Arab Emirates,High income,Abu Dhabi
+BHR,Bahrain,High income,Manama
+ISR,Israel,High income,
+KWT,Kuwait,High income,Kuwait City
+MLT,Malta,High income,Valletta
+OMN,Oman,High income,Muscat
+QAT,Qatar,High income,Doha
+SAU,Saudi Arabia,High income,Riyadh
+SYR,Syrian Arab Republic,Low income,Damascus
+"YEM,""Yemen, Rep."",Low income,Sana'a"
+DJI,Djibouti,Lower middle income,Djibouti
+"EGY,""Egypt, Arab Rep."",Lower middle income,Cairo"
+JOR,Jordan,Lower middle income,Amman
+LBN,Lebanon,Lower middle income,Beirut
+MAR,Morocco,Lower middle income,Rabat
+PSE,West Bank and Gaza,Lower middle income,
+TUN,Tunisia,Lower middle income,Tunis
+DZA,Algeria,Upper middle income,Algiers
+"IRN,""Iran, Islamic Rep."",Upper middle income,Tehran"
+IRQ,Iraq,Upper middle income,Baghdad
+LBY,Libya,Upper middle income,Tripoli
+BMU,Bermuda,High income,Hamilton
+CAN,Canada,High income,Ottawa
+USA,United States,High income,Washington D.C.
+AFG,Afghanistan,Low income,Kabul
+BGD,Bangladesh,Lower middle income,Dhaka
+BTN,Bhutan,Lower middle income,Thimphu
+IND,India,Lower middle income,New Delhi
+LKA,Sri Lanka,Lower middle income,Colombo
+NPL,Nepal,Lower middle income,Kathmandu
+PAK,Pakistan,Lower middle income,Islamabad
+MDV,Maldives,Upper middle income,Male
+SYC,Seychelles,High income,Victoria
+BDI,Burundi,Low income,Bujumbura
+BFA,Burkina Faso,Low income,Ouagadougou
+CAF,Central African Republic,Low income,Bangui
+"COD,""Congo, Dem. Rep."",Low income,Kinshasa"
+ERI,Eritrea,Low income,Asmara
+ETH,Ethiopia,Low income,Addis Ababa
+"GMB,""Gambia, The"",Low income,Banjul"
+GNB,Guinea-Bissau,Low income,Bissau
+LBR,Liberia,Low income,Monrovia
+MDG,Madagascar,Low income,Antananarivo
+MLI,Mali,Low income,Bamako
+MOZ,Mozambique,Low income,Maputo
+MWI,Malawi,Low income,Lilongwe
+NER,Niger,Low income,Niamey
+RWA,Rwanda,Low income,Kigali
+SDN,Sudan,Low income,Khartoum
+SLE,Sierra Leone,Low income,Freetown
+SOM,Somalia,Low income,Mogadishu
+SSD,South Sudan,Low income,Juba
+TCD,Chad,Low income,N'Djamena
+TGO,Togo,Low income,Lome
+UGA,Uganda,Low income,Kampala
+AGO,Angola,Lower middle income,Luanda
+BEN,Benin,Lower middle income,Porto-Novo
+CIV,Cote d'Ivoire,Lower middle income,Yamoussoukro
+CMR,Cameroon,Lower middle income,Yaounde
+"COG,""Congo, Rep."",Lower middle income,Brazzaville"
+COM,Comoros,Lower middle income,Moroni
+CPV,Cabo Verde,Lower middle income,Praia
+GHA,Ghana,Lower middle income,Accra
+GIN,Guinea,Lower middle income,Conakry
+KEN,Kenya,Lower middle income,Nairobi
+LSO,Lesotho,Lower middle income,Maseru
+MRT,Mauritania,Lower middle income,Nouakchott
+NGA,Nigeria,Lower middle income,Abuja
+SEN,Senegal,Lower middle income,Dakar
+STP,Sao Tome and Principe,Lower middle income,Sao Tome
+SWZ,Eswatini,Lower middle income,Mbabane
+TZA,Tanzania,Lower middle income,Dodoma
+ZMB,Zambia,Lower middle income,Lusaka
+ZWE,Zimbabwe,Lower middle income,Harare
+BWA,Botswana,Upper middle income,Gaborone
+GAB,Gabon,Upper middle income,Libreville
+GNQ,Equatorial Guinea,Upper middle income,Malabo
+MUS,Mauritius,Upper middle income,Port Louis
+NAM,Namibia,Upper middle income,Windhoek
+ZAF,South Africa,Upper middle income,Pretoria
